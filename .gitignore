@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.tmp
+.DS_Store
+# bower_components/
+debug.log
+
+npm-debug.log
+yarn-error.log
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
